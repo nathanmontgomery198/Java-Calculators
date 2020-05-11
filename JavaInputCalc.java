@@ -1,5 +1,3 @@
-package Practical02;
-
 import java.util.Scanner;
 
 public class JavaInputCalc {
